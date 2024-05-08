@@ -37,7 +37,7 @@
             "type": "string"
         },
         "repoUrl": {
-            "defaultValue": "https://github.com/vanderby/SonarQube-AzureAppService",
+            "defaultValue": "https://github.com/jackgenius/SonarQube-AzureAppService",
             "type": "string"
         },
         "branch": {
@@ -56,7 +56,7 @@
         },
         "SonarQube Version": {
             "type": "string",
-            "defaultValue": "Latest",
+            "defaultValue": "10.4.1",
             "metadata": {
                 "description": "Specific version of SQ to download e.g. 7.9.1 or 8.0. Leave blank or set to 'Latest' for most recent version."
             }
