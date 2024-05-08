@@ -9,7 +9,7 @@
         },
         "siteLocation": {
             "type": "string",
-            "defaultValue": "West Europe"
+            "defaultValue": "West Europe "
         },
         "siteName": {
             "type": "string",
